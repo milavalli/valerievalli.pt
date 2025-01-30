@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Chi sono
 
-blabla
+Blabla
