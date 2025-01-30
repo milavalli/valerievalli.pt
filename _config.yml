@@ -1,15 +1,15 @@
 sotheme: jekyll-theme-minimal
 title: VALÉRIE VALLI Personal Trainer
-description: Website for her activity
-show_downloads: True
+description: Specialista Preparazione Fisica & Resistenza, Nutrizione Sportiva e Allenamenti Personalizzati
+show_downloads: False
 navigation:
   - title: Home
     url: /
-  - title: Example
-    url: example
   - title: Servizi
     url: services
   - title: Il mio percorso
     url : about
   - title: Contatto
     url: contact
+  - title: Example
+    url: example
